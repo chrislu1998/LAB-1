@@ -10,7 +10,7 @@ navbar:
       href: geog176A.html
   right:
     - icon: fa-github
-    - https://github.com/chrislu1998
+    - https://github.com/chrislu1998 
 output:
   html_document:
    theme: darkly
