@@ -4,6 +4,7 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "GIS Work"
       href: geog176A.html
