@@ -9,7 +9,7 @@ navbar:
     - text: "GIS Work"
       href: geog176A.html
 
-    right:
+  right:
     - icon: fa-home
     - herf: https://www.google.com/
 output:
