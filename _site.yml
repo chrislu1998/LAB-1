@@ -8,6 +8,8 @@ navbar:
       href: index.html
     - text: "GIS Work"
       href: geog176A.html
+    - text: "CV"
+      herf: CV.html
 
   right:
     - icon: fa-home
