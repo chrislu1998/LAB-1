@@ -10,6 +10,7 @@ navbar:
       href: geog176A.html
     - text: "CV"
       herf: CV.html
+      
   right:
     - icon: fa-home
     - herf: https://www.google.com/

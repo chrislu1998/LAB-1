@@ -7,7 +7,7 @@ output: html_document
 # Zijiao Lu
 </center>
 
-EDUCATION BACKGROUND 
+### EDUCATION BACKGROUND 
 
 University of California – Los Angeles
 - Bachelor of Arts in Asian Studies                 
