@@ -8,13 +8,11 @@ navbar:
       href: index.html
     - text: "GIS Work"
       href: geog176A.html
-    - text: "CV"
-      herf: CV.html
-      
-  right:
+
+    right:
     - icon: fa-home
     - herf: https://www.google.com/
 output:
   html_document:
-   theme: darkly
+   theme: journal
   
